@@ -4,7 +4,7 @@
 
 - [Sci-Hub](https://sci-hub.se/): A revolutionary site aiming to break knowledge barriers, greeted by the goddess Elbakyan.
 - [Library Genesis](http://libgen.is/): A website for downloading e-books.
-- [Z-library](https://zlibrary-global.se/): An e-book download site (works better under [Tor](https://www.torproject.org/), [link](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)).
+- [Z-library](https://z-library.rs/): An e-book download site (works better under [Tor](https://www.torproject.org/), [link](http://loginzlib2vrak5zzpcocc3ouizykn6k5qecgj2tzlnab5wcbqhembyd.onion/)).
 - [Z-ePub](https://z-epub.com/): ePub e-book download site.
 - [PDF Drive](https://www.pdfdrive.com/): A PDF e-book search engine.
 - [MagazineLib](https://magazinelib.com/): A site for downloading PDF e-magazines.
@@ -45,6 +45,8 @@
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html): Visualization website for data structures and algorithms.
 - [learngitbranching](https://learngitbranching.js.org/?locale=zh_CN): Visualize learning git.
 - [UnicodeCharacter](https://unicode-table.com/en/): Unicode character set website.
+- [cyrilex](https://extendsclass.com/regex-tester.html): A site for testing and visualizing regular expressions, supporting various programming language standards.
+- [mockium](https://softwium.com/mockium/): Platform for generating test data.
 
 ## Learning Websites
 
@@ -98,3 +100,4 @@
 - [keybr](https://www.keybr.com/): A website for learning touch typing.
 - [Awesome C++](https://cpp.libhunt.com/): A curated list of awesome C/C++ frameworks, libraries, resources.
 - [HelloGitHub](https://hellogithub.com/): Shares interesting and beginner-friendly open-source projects on GitHub.
+- [Synergy](https://github.com/DEAKSoftware/Synergy-Binaries): A set of keyboard and mouse controls for multiple computers

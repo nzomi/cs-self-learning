@@ -20,7 +20,7 @@ In addition, there are 3 projects that give you the opportunity to be exposed to
 ## Resources
 ## Course Resources
 
-- Course Website: <https://sp18.datastructur.es/>
+- Course Website: [spring2024](https://sp24.datastructur.es/), [fall2023](https://fa23.datastructur.es/), [spring2023](https://sp23.datastructur.es/), [spring2018](https://sp18.datastructur.es/)
 - Recordings: refer to the course website
 - Textbook: None
 - Assignments: Slightly different every year. In the spring semester of 2018, there are 14 Labs, 10 Homework and 3 Projects. Please refer to the course website for specific requirements.
@@ -28,3 +28,5 @@ In addition, there are 3 projects that give you the opportunity to be exposed to
 ## Personal resources
 
 All resources and homework implementations used by @PKUFlyingPig in this course are summarized in [PKUFlyingPig/CS61B - GitHub](https://github.com/PKUFlyingPig/CS61B).
+
+All resources and homework implementations used by @InsideEmpire in this course are summarized in [InsideEmpire/CS61B-PathwayToSuccess - GitHub](https://github.com/InsideEmpire/CS61B-PathwayToSuccess.git).
